@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola! 👋
 
-<!--
-**luisCorreaCespedes/luisCorreaCespedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Luis Correa y soy estudiante de la carrera de Ingeniería Civil en Computación mención Informática
+de la 🎓Universidad Tecnológica Metropolitana🎓 del Estado de Chile.
 
-Here are some ideas to get you started:
+Me desenvuelvo como Desarrollador Web Junior, siempre aspirando a aprender más tecnologías para ello.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Algunos lenguajes de programación que manejo son:
+
+- JavaScript
+- C++
+- Dart
+- Entre otros (en menor medida).
+
+Datos sobre mí:
+
+- 🔭 Actualmente estoy trabajando en un videojuego de Game Boy llamado ✨Paw Attack!!✨ y en una aplicación web de mascotas en adopción en conjunto con mis amigos y equipo de trabajo llamado 🐱Adopta Animal Chile🐶.
+- 🌱 Estoy aprendiendo tecnologías como Angular y Flutter para poder realizar proyectos personales.
+- 💬 Puedes visitar mi portafolio con mis proyectos y cosas así: [Portafolio](https://luiscorreaportafolio.netlify.app)
+- ⚡ Fun Fact: Me gustan los videojuegos retro (y sobre todo de 8-bits).
+
+### Saludos 😄
