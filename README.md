@@ -2,7 +2,7 @@
 
 Mi nombre es Luis Correa y soy estudiante de la carrera de Ingeniería Civil en Computación mención Informática de la 🎓Universidad Tecnológica Metropolitana🎓 del Estado de Chile, actualmente cursando mi último año de carrera (6 años de duración). Soy una persona pro activa que le gusta aportar ideas a los equipos de trabajo, siempre pensando en cómo poder innovar y fomentar estas ideas. Me gusta el desarrollo de videojuegos retro, y actualmente estoy formando un estudio pequeño para el desarrollo de videojuegos para la consola Game Boy. Me gusta el rock y el buen café al programar.
 
-Algunos conocimientos que tengo son:
+Algunos conocimientos básicos que tengo son:
 
 - Desarrollo Web (HTML, CSS, Bootstrap, Sass)
 - JavaScript (NodeJs, Svelte, React)
@@ -20,7 +20,7 @@ Durante mi desarrollo como profesional en la universidad, he realizado variados 
 
 Cosillas interesantes:
 
-- 🔭 Actualmente estoy trabajando en un videojuego de Game Boy llamado ✨Paw Attack!!✨ y en una aplicación web de mascotas en adopción en conjunto con mis amigos y equipo de trabajo llamado 🐱Adopta Animal Chile🐶.
+- 🔭 Actualmente estoy trabajando en un videojuego de Game Boy Color llamado ✨Paw Attack!!✨ y en una aplicación web de mascotas en adopción en conjunto con mis amigos y equipo de trabajo llamado 🐱Pets Üp🐶.
 - 🌱 Estoy aprendiendo tecnologías como Angular y Flutter para poder realizar proyectos personales.
 - 💬 Puedes visitar mi portafolio con mis proyectos y cosas así: [Portafolio](https://luiscorreaportafolio.netlify.app)
 - ⚡ Fun Fact: Me gustan los videojuegos retro (y sobre todo de 8-bits).
