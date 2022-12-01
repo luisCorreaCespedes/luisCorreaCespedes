@@ -4,11 +4,10 @@ Mi nombre es Luis Correa y soy estudiante de la carrera de Ingeniería Civil en 
 
 Algunos conocimientos básicos que tengo son:
 
-- Desarrollo Web (HTML, CSS, Bootstrap, Sass)
-- JavaScript (NodeJs, Svelte, React)
+- Desarrollo Web (HTML, CSS, Bootstrap)
+- JavaScript (NodeJs, React)
 - C/C++
-- Python (Pandas, NumPy)
-- Dart
+- Python
 - Gestión de bases de datos (MySQL, MongoDB, SQLServer)
 - PHP (Laravel 7 o superior)
 - Control de versiones (Git/GitHub)
@@ -20,8 +19,8 @@ Durante mi desarrollo como profesional en la universidad, he realizado variados 
 
 Cosillas interesantes:
 
-- 🔭 Actualmente estoy trabajando en un videojuego de Game Boy Color llamado ✨Paw Attack!!✨ y en una aplicación web de mascotas en adopción en conjunto con mis amigos y equipo de trabajo llamado 🐱Pets Üp🐶.
-- 🌱 Estoy aprendiendo tecnologías como Angular y Flutter para poder realizar proyectos personales.
+- 🔭 Actualmente estoy trabajando en un videojuego de Game Boy Color llamado ✨Sketch Land✨.
+- 🌱 Estoy aprendiendo tecnologías como Angular para poder realizar proyectos personales.
 - 💬 Puedes visitar mi portafolio con mis proyectos y cosas así: [Portafolio](https://luiscorreaportafolio.netlify.app)
 - ⚡ Fun Fact: Me gustan los videojuegos retro (y sobre todo de 8-bits).
 
