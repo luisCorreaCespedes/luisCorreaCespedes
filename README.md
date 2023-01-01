@@ -6,10 +6,7 @@ Algunos conocimientos básicos que tengo son:
 
 - Desarrollo Web (HTML, CSS, Bootstrap)
 - JavaScript (NodeJs, React)
-- C/C++
-- Python
 - Gestión de bases de datos (MySQL, MongoDB, SQLServer)
-- PHP (Laravel 7 o superior)
 - Control de versiones (Git/GitHub)
 - Gestión de proyectos
 - Metodologías ágiles (SCRUM, Kanban)
