@@ -1,4 +1,4 @@
-# Hola! 👋
+Hola! 👋
 
 Mi nombre es Luis Correa y soy Ingeniero Civil en Computación con mención Informática de la 🎓Universidad Tecnológica Metropolitana🎓 del Estado de Chile. Soy una persona pro activa que le gusta aportar ideas a los equipos de trabajo, siempre pensando en cómo poder innovar y fomentar estas ideas. Me gusta el desarrollo de videojuegos retro, y actualmente estoy formando un estudio pequeño para el desarrollo de videojuegos para la consola Game Boy. Me gusta el rock y el buen café al programar.
 
