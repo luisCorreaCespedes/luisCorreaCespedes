@@ -20,4 +20,4 @@ Cosillas interesantes:
 - 🌱 Estoy aprendiendo tecnologías como Angular para poder realizar proyectos personales.
 - ⚡ Fun Fact: Me gustan los videojuegos retro (y sobre todo de 8-bits).
 
-### Saludos 😄
+Saludos 😄
